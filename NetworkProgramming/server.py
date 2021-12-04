@@ -75,4 +75,3 @@ def StartComumnication():
         print(f"Active Connections : {threading.activeCount() - 1}")
 
 
-StartComumnication()
