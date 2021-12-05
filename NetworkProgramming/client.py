@@ -19,7 +19,7 @@ import socket
         serverAdrress : server adress parameters
 """
 
-header, portNUmber, format, serverIpAddress = 64, 5050, 'utf-8', "172.20.80.11"
+header, portNUmber, format, serverIpAddress = 64, 5050, 'utf-8', "1.1.1.1"
 serverAddress = (serverIpAddress, portNUmber)
 
 """
