@@ -1,2 +1,2 @@
 # Python
-Python Library
+This is a library for Python
